@@ -12,14 +12,14 @@ The task: extract structured entity values (weight, dimensions, voltage, wattage
   <tr>
     <td align="center">
       <a href="https://github.com/coolboy-dev">
-        <img src="https://github.com/coolboy-dev.png" width="80px;" alt="coolboy-dev"/><br />
-        <sub><b>coolboy-dev</b></sub>
+        <img src="https://github.com/coolboy-dev.png" width="80px;" alt="Yug"/><br />
+        <sub><b>Yug</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/PRATEEK-260">
-        <img src="https://github.com/PRATEEK-260.png" width="80px;" alt="PRATEEK-260"/><br />
-        <sub><b>PRATEEK-260</b></sub>
+        <img src="https://github.com/PRATEEK-260.png" width="80px;" alt="Prateek"/><br />
+        <sub><b>Prateek</b></sub>
       </a>
     </td>
   </tr>
